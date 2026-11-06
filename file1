@@ -1,0 +1,5 @@
+public class{
+psvm(String[] args)
+{
+Sout("Hellow World")
+}
